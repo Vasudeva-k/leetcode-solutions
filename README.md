@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -30,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 <!---LeetCode Topics End-->
