@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0001-two-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## String
 |  |
 | ------- |
@@ -31,9 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Math
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
+## Counting
+|  |
+| ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
