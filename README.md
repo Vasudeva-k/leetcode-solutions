@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0561-array-partition](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0561-array-partition) |
 | [0941-valid-mountain-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0561-array-partition) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Math
@@ -43,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
