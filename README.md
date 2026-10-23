@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
