@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0441-arranging-coins](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [2409-count-days-spent-together](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
