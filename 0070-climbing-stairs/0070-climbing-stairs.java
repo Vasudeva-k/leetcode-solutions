@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     int[] dp;
 
     public int climbStairs(int n) {
@@ -23,3 +23,4 @@ class Solution {
         return dp[n];
     }
 }
+*/
