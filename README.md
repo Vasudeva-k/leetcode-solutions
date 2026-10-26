@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [2409-count-days-spent-together](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
@@ -68,9 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0231-power-of-two) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0015-3sum) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
