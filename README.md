@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0561-array-partition) |
 | [0941-valid-mountain-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0561-array-partition) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Math
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0015-3sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |
