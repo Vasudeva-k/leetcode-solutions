@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
