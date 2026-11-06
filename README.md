@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0561-array-partition) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0015-3sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
