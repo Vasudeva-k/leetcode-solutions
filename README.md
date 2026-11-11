@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0561-array-partition](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0561-array-partition) |
 | [0941-valid-mountain-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [2409-count-days-spent-together](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
