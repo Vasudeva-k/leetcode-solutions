@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0561-array-partition](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0561-array-partition) |
 | [0941-valid-mountain-array](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
