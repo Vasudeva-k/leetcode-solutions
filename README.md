@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [2409-count-days-spent-together](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Trie
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vasudeva-k/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
